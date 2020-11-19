@@ -7,7 +7,8 @@ title: Grant Process Blog 1
 
    At first, the research process for completing my environmental scan was not an easy one. I became frustrated and kept searching for the same key words without any luck. But, with help from the NEH Website, the Christopher Newport University Library, CNU Library tutorials, and my digital humanities professor, I was able to find several credible sources. Below is a twitter post on how I felt when I began this process, and my professors helpfulness with this process. 
    
-   IMG_9827.jpg 
+  
+![Tweet 1](https://mmsi7.github.io/Mmsi7/images/IMG_9827.jpg)
 
    Through conducting my research, the major way my digital humanities project will differ from other projects and journal articles is through incorporating a podcast to discuss media studies. This incorporates digital humanities because podcasts are a form of DH. In my podcast I will include topics and include episodes such as why media studies matters, what it is, and how it relates to DH. Although there are a bunch of different journal articles, such as Tara McPherson’s article titled, “Introduction Media Studies and the Digital Humanities”, that connect DH and media studies together, my podcast will differ from this since I will relate the two by speaking out loud rather than simply words on a page. 
    
