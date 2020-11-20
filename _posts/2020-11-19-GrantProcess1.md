@@ -16,5 +16,5 @@ title: Grant Process Blog 1
    
    A final way I believe that my digital humanities project that is explaining digital humanities is through the use of a website. Although there are media studies websites such as American Journalism review and digital humanities websites, I was unable to find any websites that successfully combined the two topics. I would like to incorporate the idea of creating a website in my project.
 
-   In conclusion, although I had a challenge with research at first, writing the grant proposal as a whole has been a very fun process. I really did not know or think I would enjoy this process so much. I really enjoy the topic I chose, realtating digital humanities to media studies, which may be a big reason why I enjoy the process of writing this grant. 
+   In conclusion, although I had a challenge with research at first, writing the grant proposal as a whole has been a very fun process. I really did not know or think I would enjoy this process so much. I really enjoy the topic I chose, relating digital humanities to media studies, which may be a big reason why I enjoy the process of writing this grant. 
 
