@@ -1,4 +1,9 @@
-  As stated in my previous Grant Process blog post, I will be doing my proposal on creating a Media Studies Digital Humanities website. The further along I get on my Grant Proposal, the more I want to actually complete my Media Studies Website. I know for this assignment it is just a proposal, but If I had more time in this course and had the funds to do it, I would definitely want to actually complete this project the whole way through. 
+ ---
+layout: post
+title: Grant Process Blog 2
+---
+ 
+ As stated in my previous Grant Process blog post, I will be doing my proposal on creating a Media Studies Digital Humanities website. The further along I get on my Grant Proposal, the more I want to actually complete my Media Studies Website. I know for this assignment it is just a proposal, but If I had more time in this course and had the funds to do it, I would definitely want to actually complete this project the whole way through. 
 
   Since my last process blog post, I have completed my grant narrative, budget, and resume. In this second blog entry about my grant process, I will briefly discuss the grant narrative, budget, and resume of my Media Studies Digital Humanities project. 
 
