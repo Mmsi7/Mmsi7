@@ -8,7 +8,7 @@
   
   For the budget of my Media Studies Grant proposal, I was given a total of $1,500, but only ended up spending $1,226.95. I believe that this was a very fair budget for this grant and that I utilized my funds well. I spent my Grant Proposal money on different items such as a domain name, a graphic designer, and resources. I also added a tools section which consists of things such as headphones and a microphone, to help record my podcasts that will be on my Media Studies Website. I may add more to my budget before I submit my final proposal but below is my current budget for my Grant Proposal. 
   
-  ![Budget](https://mmsi7.github.io/Mmsi7/images/Screenshot 2020-12-11 at 1.15.02 PM.png)
+  ![Budget](https://mmsi7.github.io/Mmsi7/images/Screenshot2020-12-11at1.15.02PM.png)
   
   I decided to complete a resume for my Grant Proposal because I have been lucky enough to have a fair amount of experience that will in turn help me complete the grant proposal and Media Studies Website to the best of my ability. On my resume, I added things such as my past work experiences, education, internships, college courses I took, and extracurriculars. The goal of this resume was to successfully show all of my skills and experiences. My hope is that I did an excellent job in persuading my audience that I am a great candidate to complete the Media Studies Website. 
     
